@@ -1,0 +1,15 @@
+{
+  "name": "EVERGREEN",
+  "symbol": "EVR",
+  "description": "SICK OF RUG PULL",
+  "image": "https://ipfs.io/ipfs/QmSimulatedCID1234567890abcdef/photo_2025-07-05_00-33-33.jpg",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ipfs.io/ipfs/QmSimulatedCID1234567890abcdef/photo_2025-07-05_00-33-33.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
